@@ -1,7 +1,7 @@
 let poll = {
     question: " What are you most excited for?",
     answers: [
-        "Summer Break", "Field Day", "Graduation"
+        "Summer Break", "Field Day", "Graduation", "6th Grade"
     ],
     pollCount:20,
     answersWeight:[4, 4, 2, 10],
@@ -74,3 +74,5 @@ let pollDOM = {
     return false;
     });
     });
+
+    
